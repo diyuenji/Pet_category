@@ -1,5 +1,4 @@
 # Pet_category
-Hugging face demo
 
 # Note
 - Model convnext_model.pkl and resnet34_model.pkl was train on vscode
