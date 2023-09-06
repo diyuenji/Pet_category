@@ -10,7 +10,7 @@ if plt == 'Linux':
     pathlib.WindowsPath = pathlib.PosixPath
 
 #load model
-learn =load_learner('convnext_model.pkl') 
+learn =load_learner('convnext_model2.pkl') 
 
 
 
